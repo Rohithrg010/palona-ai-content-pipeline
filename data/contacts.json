@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "email": "sarah@example.com",
+    "persona": "Agency Owners"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Lee",
+    "email": "marcus@example.com",
+    "persona": "Operations Managers"
+  },
+  {
+    "id": 3,
+    "name": "Nina Patel",
+    "email": "nina@example.com",
+    "persona": "Creative Leads"
+  }
+]

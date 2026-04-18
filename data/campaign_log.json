@@ -1,0 +1,134 @@
+[
+  {
+    "campaign_id": "camp_20260418_175238",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T17:52:38.129790",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_175238",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T17:52:38.130096",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_175238",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T17:52:38.130317",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T18:05:25.409447",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T18:05:25.409668",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T18:05:25.409862",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T18:32:53.830428",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T18:32:53.830710",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T18:32:53.830924",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T18:42:04.798172",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T18:42:04.799601",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T18:42:04.799991",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  }
+]

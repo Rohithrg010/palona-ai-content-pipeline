@@ -1,0 +1,86 @@
+[
+  {
+    "campaign_id": "camp_20260418_175238",
+    "persona": "Agency Owners",
+    "open_rate": 0.53,
+    "click_rate": 0.15,
+    "unsubscribe_rate": 0.01
+  },
+  {
+    "campaign_id": "camp_20260418_175238",
+    "persona": "Operations Managers",
+    "open_rate": 0.36,
+    "click_rate": 0.26,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_175238",
+    "persona": "Creative Leads",
+    "open_rate": 0.49,
+    "click_rate": 0.23,
+    "unsubscribe_rate": 0.02
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "persona": "Agency Owners",
+    "open_rate": 0.36,
+    "click_rate": 0.15,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "persona": "Operations Managers",
+    "open_rate": 0.54,
+    "click_rate": 0.19,
+    "unsubscribe_rate": 0.05
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "persona": "Creative Leads",
+    "open_rate": 0.45,
+    "click_rate": 0.18,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "persona": "Agency Owners",
+    "open_rate": 0.53,
+    "click_rate": 0.11,
+    "unsubscribe_rate": 0.02
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "persona": "Operations Managers",
+    "open_rate": 0.45,
+    "click_rate": 0.13,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_183253",
+    "persona": "Creative Leads",
+    "open_rate": 0.35,
+    "click_rate": 0.13,
+    "unsubscribe_rate": 0.03
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "persona": "Agency Owners",
+    "open_rate": 0.48,
+    "click_rate": 0.29,
+    "unsubscribe_rate": 0.0
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "persona": "Operations Managers",
+    "open_rate": 0.52,
+    "click_rate": 0.15,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "persona": "Creative Leads",
+    "open_rate": 0.54,
+    "click_rate": 0.18,
+    "unsubscribe_rate": 0.04
+  }
+]

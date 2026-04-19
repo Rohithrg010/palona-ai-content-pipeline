@@ -130,5 +130,104 @@
     "recipients": [
       "nina@example.com"
     ]
+  },
+  {
+    "campaign_id": "camp_20260418_193843",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T19:38:44.326231",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_193843",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T19:38:44.329496",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_193843",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T19:38:44.330761",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T19:41:17.892788",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T19:41:17.895406",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T19:41:17.896623",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI",
+    "send_date": "2026-04-18T19:41:49.222012",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate workflow bottlenecks",
+    "send_date": "2026-04-18T19:41:49.224332",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "blog_title": "How AI is Transforming Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "Focus more on creativity",
+    "send_date": "2026-04-18T19:41:49.225064",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
   }
 ]

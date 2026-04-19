@@ -2,106 +2,169 @@
   {
     "campaign_id": "camp_20260418_175238",
     "persona": "Agency Owners",
-    "open_rate": 0.51,
-    "click_rate": 0.12,
+    "open_rate": 0.53,
+    "click_rate": 0.17,
     "unsubscribe_rate": 0.0
   },
   {
     "campaign_id": "camp_20260418_175238",
     "persona": "Operations Managers",
-    "open_rate": 0.45,
-    "click_rate": 0.26,
-    "unsubscribe_rate": 0.0
+    "open_rate": 0.53,
+    "click_rate": 0.14,
+    "unsubscribe_rate": 0.02
   },
   {
     "campaign_id": "camp_20260418_175238",
     "persona": "Creative Leads",
-    "open_rate": 0.38,
-    "click_rate": 0.29,
+    "open_rate": 0.37,
+    "click_rate": 0.21,
     "unsubscribe_rate": 0.01
   },
   {
     "campaign_id": "camp_20260418_180525",
     "persona": "Agency Owners",
     "open_rate": 0.44,
-    "click_rate": 0.16,
-    "unsubscribe_rate": 0.04
+    "click_rate": 0.18,
+    "unsubscribe_rate": 0.03
   },
   {
     "campaign_id": "camp_20260418_180525",
     "persona": "Operations Managers",
+    "open_rate": 0.55,
+    "click_rate": 0.29,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_180525",
+    "persona": "Creative Leads",
     "open_rate": 0.44,
     "click_rate": 0.23,
-    "unsubscribe_rate": 0.02
-  },
-  {
-    "campaign_id": "camp_20260418_180525",
-    "persona": "Creative Leads",
-    "open_rate": 0.47,
-    "click_rate": 0.13,
-    "unsubscribe_rate": 0.03
+    "unsubscribe_rate": 0.05
   },
   {
     "campaign_id": "camp_20260418_183253",
     "persona": "Agency Owners",
-    "open_rate": 0.46,
-    "click_rate": 0.24,
-    "unsubscribe_rate": 0.02
+    "open_rate": 0.42,
+    "click_rate": 0.23,
+    "unsubscribe_rate": 0.01
   },
   {
     "campaign_id": "camp_20260418_183253",
     "persona": "Operations Managers",
-    "open_rate": 0.36,
-    "click_rate": 0.29,
+    "open_rate": 0.41,
+    "click_rate": 0.27,
     "unsubscribe_rate": 0.04
   },
   {
     "campaign_id": "camp_20260418_183253",
     "persona": "Creative Leads",
-    "open_rate": 0.52,
-    "click_rate": 0.29,
-    "unsubscribe_rate": 0.03
+    "open_rate": 0.51,
+    "click_rate": 0.19,
+    "unsubscribe_rate": 0.01
   },
   {
     "campaign_id": "camp_20260418_184204",
     "persona": "Agency Owners",
-    "open_rate": 0.48,
-    "click_rate": 0.14,
-    "unsubscribe_rate": 0.0
-  },
-  {
-    "campaign_id": "camp_20260418_184204",
-    "persona": "Operations Managers",
-    "open_rate": 0.44,
+    "open_rate": 0.53,
     "click_rate": 0.28,
     "unsubscribe_rate": 0.01
   },
   {
     "campaign_id": "camp_20260418_184204",
-    "persona": "Creative Leads",
+    "persona": "Operations Managers",
     "open_rate": 0.51,
-    "click_rate": 0.12,
+    "click_rate": 0.19,
+    "unsubscribe_rate": 0.02
+  },
+  {
+    "campaign_id": "camp_20260418_184204",
+    "persona": "Creative Leads",
+    "open_rate": 0.47,
+    "click_rate": 0.22,
     "unsubscribe_rate": 0.03
   },
   {
     "campaign_id": "camp_20260418_193843",
     "persona": "Agency Owners",
-    "open_rate": 0.4,
-    "click_rate": 0.2,
-    "unsubscribe_rate": 0.03
-  },
-  {
-    "campaign_id": "camp_20260418_193843",
-    "persona": "Operations Managers",
-    "open_rate": 0.43,
-    "click_rate": 0.21,
+    "open_rate": 0.5,
+    "click_rate": 0.16,
     "unsubscribe_rate": 0.05
   },
   {
     "campaign_id": "camp_20260418_193843",
+    "persona": "Operations Managers",
+    "open_rate": 0.45,
+    "click_rate": 0.11,
+    "unsubscribe_rate": 0.02
+  },
+  {
+    "campaign_id": "camp_20260418_193843",
+    "persona": "Creative Leads",
+    "open_rate": 0.43,
+    "click_rate": 0.2,
+    "unsubscribe_rate": 0.02
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
+    "persona": "Agency Owners",
+    "open_rate": 0.47,
+    "click_rate": 0.24,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
+    "persona": "Operations Managers",
+    "open_rate": 0.55,
+    "click_rate": 0.2,
+    "unsubscribe_rate": 0.01
+  },
+  {
+    "campaign_id": "camp_20260418_194117",
     "persona": "Creative Leads",
     "open_rate": 0.38,
-    "click_rate": 0.24,
+    "click_rate": 0.19,
+    "unsubscribe_rate": 0.01
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "persona": "Agency Owners",
+    "open_rate": 0.52,
+    "click_rate": 0.15,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "persona": "Operations Managers",
+    "open_rate": 0.37,
+    "click_rate": 0.19,
+    "unsubscribe_rate": 0.01
+  },
+  {
+    "campaign_id": "camp_20260418_194148",
+    "persona": "Creative Leads",
+    "open_rate": 0.38,
+    "click_rate": 0.28,
+    "unsubscribe_rate": 0.05
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "persona": "Agency Owners",
+    "open_rate": 0.48,
+    "click_rate": 0.25,
+    "unsubscribe_rate": 0.03
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "persona": "Operations Managers",
+    "open_rate": 0.43,
+    "click_rate": 0.26,
+    "unsubscribe_rate": 0.05
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "persona": "Creative Leads",
+    "open_rate": 0.41,
+    "click_rate": 0.14,
     "unsubscribe_rate": 0.05
   }
 ]

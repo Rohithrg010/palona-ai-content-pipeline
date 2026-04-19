@@ -229,5 +229,71 @@
     "recipients": [
       "nina@example.com"
     ]
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "blog_title": "How AI is Transforming Ai In Creative Automation",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with AI in Creative Automation",
+    "send_date": "2026-04-18T20:09:15.788218",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "blog_title": "How AI is Transforming Ai In Creative Automation",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate bottlenecks with AI in Creative Automation",
+    "send_date": "2026-04-18T20:09:15.790427",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_200915",
+    "blog_title": "How AI is Transforming Ai In Creative Automation",
+    "persona": "Creative Leads",
+    "newsletter_subject": "More creativity with AI in Creative Automation",
+    "send_date": "2026-04-18T20:09:15.791412",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_201204",
+    "blog_title": "How AI is Transforming From Manual To Automated: A Creative Agency'S Guide",
+    "persona": "Agency Owners",
+    "newsletter_subject": "Scale your agency with From Manual to Automated: A Creative Agency's Guide",
+    "send_date": "2026-04-18T20:12:04.719194",
+    "recipient_count": 1,
+    "recipients": [
+      "sarah@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_201204",
+    "blog_title": "How AI is Transforming From Manual To Automated: A Creative Agency'S Guide",
+    "persona": "Operations Managers",
+    "newsletter_subject": "Eliminate bottlenecks with From Manual to Automated: A Creative Agency's Guide",
+    "send_date": "2026-04-18T20:12:04.723938",
+    "recipient_count": 1,
+    "recipients": [
+      "marcus@example.com"
+    ]
+  },
+  {
+    "campaign_id": "camp_20260418_201204",
+    "blog_title": "How AI is Transforming From Manual To Automated: A Creative Agency'S Guide",
+    "persona": "Creative Leads",
+    "newsletter_subject": "More creativity with From Manual to Automated: A Creative Agency's Guide",
+    "send_date": "2026-04-18T20:12:04.725517",
+    "recipient_count": 1,
+    "recipients": [
+      "nina@example.com"
+    ]
   }
 ]
